@@ -62,8 +62,7 @@
          <p><input type="radio" name="care" value="2" checked>Средства для ухода</p>
          <p><input type="radio" name="accessories" value="3">Аксессуары</p>
 <input type="submit" value="Показать"> 
-         
-         <div class="index-content-right">
+          <div class="index-content-right">
               <div class="gallery">
                   <figure class="gallery-content">
                       <p><a href="#"><img src="img/photo-2.jpg" width="286" height="164" alt="">
@@ -116,8 +115,7 @@
           Адрес: г. Санкт-Петербург, Б. Конюшенная, д. 19/8<br>
           <a href="#">Как нас найти?</a><br>
           Телефон: +7 (812) 666-02-66
-      
-        </section>
+       </section>
         <section class="footer-social">
                       <p>Давайте дружить!</p>
              <a class="social-btn social-btn-vk" href="#">Вконтакте</a>
